@@ -1,0 +1,982 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+.all{
+    background-color: black;
+}
+.A4{
+/* A4 - 1 */
+margin: auto;
+position: relative;
+width: 595px;
+height: 842px;
+
+background: #E8E8E8;
+}
+
+.droit{
+
+position: absolute;
+width: 262px;
+height: 842px;
+left: 0px;
+top: 0px;
+
+background: #29403C;
+}
+
+
+
+img{
+    /* IMG_20210121_151041_596 1 */
+
+position: absolute;
+width: 150px;
+height: 153px;
+left: 55px;
+top: 27px;
+
+background: url(IMG_20210121_151041_596.jpg);
+border-radius: 100px;
+
+}
+
+.contact{
+
+position: absolute;
+width: 261px;
+height: 45px;
+left: 0px;
+top: 204px;
+
+background: #E8E8E8;
+}
+
+.c{
+
+position: absolute;
+width: 134px;
+height: 39px;
+left: 31px;
+top: -17px;
+
+font-family: 'Roboto' ;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 28px;
+
+color: #29403C;
+}
+
+.info{
+/* Frame 5 */
+
+position: absolute;
+width: 261px;
+height: 124px;
+left: 0px;
+top: 234px;
+}
+
+.telephone{
+/* +213 5 41 55 97 57 */
+
+position: absolute;
+width: 121px;
+height: 16px;
+left: 60px;
+top: 25px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+
+color: #FFFFFF;
+}
+
+.adresse{
+/* ilot 2 ,cite 3100 ,bouinan, blida */
+
+position: absolute;
+width: 191px;
+height: 16px;
+left: 60px;
+top: 62px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+
+color: #FFFFFF;
+}
+
+.gmail{
+/* adelmadjoub10@gmail.com */
+
+position: absolute;
+width: 177px;
+height: 16px;
+left: 60px;
+top: 99px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+
+color: #FFFFFF;
+}
+
+
+/* Phone 
+
+position: absolute;
+width: 25px;
+height: 25px;
+left: 11px;
+top: 21px;
+
+background: url(.png);
+
+
+/* Address 
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 11px;
+top: 55px;
+
+background: url(.png);
+
+
+/* Gmail logo 
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 11px;
+top: 92px;
+
+background: url(.png);
+
+
+/* Frame 9 */
+.centre{
+position: absolute;
+width: 262px;
+height: 45px;
+left: 0px;
+top: 608px;
+
+background: #E8E8E8;
+}
+.CI{
+/* CENTRE D’INTERET */
+
+position: absolute;
+width: 213px;
+height: 28px;
+left: 36px;
+top: -17px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 28px;
+
+color: #29403C;
+}
+
+.langue{
+/* Frame 7 */
+
+position: absolute;
+width: 262px;
+height: 45px;
+left: 0px;
+top: 387px;
+
+background: #E8E8E8;
+}
+.la{
+/* LANGUES */
+
+position: absolute;
+width: 107px;
+height: 28px;
+left: 31px;
+top: -17px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 28px;
+
+color: #29403C;
+}
+
+.lan{
+/* Frame 10 */
+
+position: absolute;
+width: 261px;
+height: 194px;
+left: 0px;
+top: 417px;
+}
+
+
+/* Line 1 
+
+position: absolute;
+width: 100px;
+height: 0px;
+left: 128px;
+top: 31px;
+
+border: 1px solid #000000;
+
+
+/* Line 2 
+
+position: absolute;
+width: 99px;
+height: 0px;
+left: 126px;
+top: 31px;
+
+border: 2.5px solid #FFFFFF;
+
+
+/* Ellipse 1 
+
+position: absolute;
+width: 10px;
+height: 10px;
+left: 222px;
+top: 25.5px;
+
+background: #FFFFFF;
+
+
+/* Line 3 
+
+position: absolute;
+width: 100px;
+height: 0px;
+left: 129px;
+top: 85px;
+
+border: 1px solid #000000;
+
+
+/* Line 4 
+
+position: absolute;
+width: 75px;
+height: 0px;
+left: 126px;
+top: 85px;
+
+border: 2px solid #FFFFFF;
+
+
+/* Ellipse 2 
+
+position: absolute;
+width: 10px;
+height: 10px;
+left: 198px;
+top: 80px;
+background: #FFFFFF;
+
+/* francais */
+.fr{
+position: absolute;
+width: 66px;
+height: 21px;
+left: 42px;
+top: 134px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+
+color: #FFFFFF;
+}
+
+
+/* Line 5 
+
+position: absolute;
+width: 100px;
+height: 0px;
+left: 128px;
+top: 145px;
+
+border: 1px solid #000000;
+
+
+/* Line 6 
+
+position: absolute;
+width: 50px;
+height: 0px;
+left: 126px;
+top: 145px;
+
+border: 2px solid #FFFFFF;
+
+
+/* Ellipse 3 
+
+position: absolute;
+width: 10px;
+height: 10px;
+left: 171px;
+top: 139px;
+
+background: #FFFFFF;
+
+
+/* arabe */
+.ar{
+position: absolute;
+width: 46px;
+height: 21px;
+left: 42px;
+top: 20px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+
+color: #FFFFFF;
+}
+
+.an{
+/* anglais */
+
+position: absolute;
+width: 59px;
+height: 21px;
+left: 42px;
+top: 75px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+
+color: #FFFFFF;
+}
+
+
+/* Hand With Pen 
+
+position: absolute;
+width: 60px;
+height: 60px;
+left: 163px;
+top: 665px;
+
+background: url(.png);
+
+
+/* Soccer Ball 
+
+position: absolute;
+width: 60px;
+height: 60px;
+left: 23px;
+top: 665px;
+
+background: url(.png);
+
+
+/* Code 
+
+position: absolute;
+width: 60px;
+height: 60px;
+left: 88px;
+top: 748px;
+
+background: url(.png);
+
+
+/* SPORT */
+.sp{
+position: absolute;
+width: 56px;
+height: 21px;
+left: 25px;
+top: 716px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+
+color: #FFFFFF;
+}
+
+.ec{
+/* ECRIVAIN */
+
+position: absolute;
+width: 79px;
+height: 21px;
+left: 155px;
+top: 716px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+
+color: #FFFFFF;
+}
+
+.pr{
+/* PROGRAMMATION */
+
+position: absolute;
+width: 153px;
+height: 21px;
+left: 42px;
+top: 799px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+
+color: #FFFFFF;
+}
+
+.ob{
+/* Frame 4 */
+
+position: absolute;
+width: 334px;
+height: 45px;
+left: 261px;
+top: 204px;
+
+background: #CDCBCB;
+}
+.obj{
+/* OBJECTIF */
+
+position: absolute;
+width: 108px;
+height: 28px;
+left: 49px;
+top: -17px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #29403C;
+}
+
+.name{
+/* MADJOUB ADEL */
+
+position: absolute;
+width: 187px;
+height: 93px;
+left: 298px;
+top: 15px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 42px;
+
+color: #29403C;
+}
+
+.cv{
+/* CIRUCULUM VITAE */
+
+position: absolute;
+width: 152px;
+height: 21px;
+left: 298px;
+top: 133px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+
+color: #29403C;
+}
+
+.co{
+/* Frame 6 */
+
+position: absolute;
+width: 333px;
+height: 45px;
+left: 262px;
+top: 388px;
+
+background: #CDCBCB;
+}
+.com{
+/* COMPETENCES */
+
+position: absolute;
+width: 171px;
+height: 28px;
+left: 49px;
+top: -17px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #29403C;
+}
+
+.les-obj{
+/* je veut etre un developpeur proffessionel, debut par develolopement web ,apres app mobile et pour-qoui pas d’apliquer l’intelligence artificielle dans ce deux domaine le but est donc d’etre un injenieur dans l’intelligence artificielle */
+
+position: absolute;
+width: 267px;
+height: 112px;
+left: 294px;
+top: 250px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+
+color: #000000;
+}
+
+.fo{
+/* Frame 11 */
+
+position: absolute;
+width: 331px;
+height: 45px;
+left: 261px;
+top: 608px;
+
+background: #CDCBCB;
+}
+.for{
+/* FORMATION */
+
+position: absolute;
+width: 135px;
+height: 28px;
+left: 49px;
+top: -16px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #29403C;
+}
+
+.c1{
+/* Developpement front web */
+
+position: absolute;
+width: 206px;
+height: 21px;
+left: 290px;
+top: 437px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+
+color: #000000;
+}
+
+.c2{
+/* Gestion base de donnees */
+
+position: absolute;
+width: 203px;
+height: 21px;
+left: 293px;
+top: 486px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+
+color: #000000;
+}
+
+.c3{
+/* C & C++ */
+
+position: absolute;
+width: 65px;
+height: 21px;
+left: 290px;
+top: 541px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+
+color: #000000;
+}
+
+
+/* Line 7 
+
+position: absolute;
+width: 200px;
+height: 0px;
+left: 333px;
+top: 487px;
+
+border: 1px solid #000000;
+
+
+/* Line 8 
+
+position: absolute;
+width: 150px;
+height: 0px;
+left: 331px;
+top: 487px;
+
+border: 2px solid #FFFFFF;
+
+
+/* Ellipse 4 
+
+position: absolute;
+width: 12px;
+height: 12px;
+left: 481px;
+top: 481px;
+
+background: #FFFFFF;
+
+
+/* Line 9 
+
+position: absolute;
+width: 200px;
+height: 0px;
+left: 334px;
+top: 540px;
+
+border: 1px solid #000000;
+
+
+/* Line 10 
+
+position: absolute;
+width: 100px;
+height: 0px;
+left: 333px;
+top: 540px;
+
+border: 2px solid #FFFFFF;
+
+
+/* Ellipse 5 
+
+position: absolute;
+width: 12px;
+height: 12px;
+left: 429px;
+top: 532px;
+
+background: #FFFFFF;
+
+
+/* Line 11 
+
+position: absolute;
+width: 200px;
+height: 0px;
+left: 334px;
+top: 587px;
+
+border: 1px solid #000000;
+
+
+/* Line 12 
+
+position: absolute;
+width: 120px;
+height: 0px;
+left: 334px;
+top: 588px;
+
+border: 2px solid #FFFFFF;
+
+
+/* Ellipse 6 
+
+position: absolute;
+width: 12px;
+height: 12px;
+left: 448px;
+top: 581px;
+
+background: #FFFFFF;
+
+
+/* BACCALAUREAT */
+.bac{
+position: absolute;
+width: 136px;
+height: 21px;
+left: 296px;
+top: 648px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+
+color: #000000;
+}
+
+.f1{
+/* Lycee “Mohamed Boudiaf” Spicialite Mathematique */
+
+position: absolute;
+width: 277px;
+height: 32px;
+left: 296px;
+top: 675px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+
+color: #000000;
+}
+
+.er1{
+/* 1 ANNEE LICENSE */
+
+position: absolute;
+width: 148px;
+height: 21px;
+left: 295px;
+top: 710px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+
+color: #000000;
+}
+
+.f2{
+/* University “UMBB” Domaine Math & Informatique */
+
+position: absolute;
+width: 269px;
+height: 32px;
+left: 295px;
+top: 734px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+display: flex;
+align-items: center;
+
+color: #000000;
+}
+
+.eme2{
+/* 2 ANNEE LICENSE */
+
+position: absolute;
+width: 148px;
+height: 21px;
+left: 298px;
+top: 770px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+
+color: #000000;
+}
+
+
+/* Rectangle 1 
+
+position: absolute;
+width: 107px;
+height: 25px;
+left: 476px;
+top: 661px;
+
+background: #29403C;
+
+
+/* Domaine Informatique */
+.f3{
+position: absolute;
+width: 179px;
+height: 21px;
+left: 298px;
+top: 794px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+
+color: #000000;
+}
+
+
+/* Rectangle 2 
+
+position: absolute;
+width: 107px;
+height: 25px;
+left: 476px;
+top: 720px;
+
+background: #29403C;
+
+
+/* Rectangle 3 
+
+position: absolute;
+width: 107px;
+height: 25px;
+left: 477px;
+top: 783px;
+
+background: #29403C;
+
+
+/* 2019 
+
+position: absolute;
+width: 41px;
+height: 21px;
+left: 513px;
+top: 665px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height 
+
+color: #FFFFFF;
+
+
+
+/* 2019 - 2020 
+
+position: absolute;
+width: 95px;
+height: 21px;
+left: 482px;
+top: 722px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height 
+
+color: #FFFFFF;
+
+
+
+/* 2020-2021 
+
+position: absolute;
+width: 86px;
+height: 21px;
+left: 488px;
+top: 783px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height 
+
+color: #FFFFFF;
+
+
+
+
